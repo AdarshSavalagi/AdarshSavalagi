@@ -27,6 +27,6 @@ I'm a student eager to explore the realms of AI, ML, and their applications in t
 
 Feel free to reach out for collaborations, discussions, or just to connect!
 
-- GitHub: [(Adarshsavalagi)https://github.com/AdarshSavalagi]
-- LinkedIn: [(Adarsh S M)https://www.linkedin.com/in/adarsh-s-m-59304a286]
-- Email: [(adarshsavalagi@ieee.org)mailto:adarshsavalagi@ieee.org]
+- GitHub: (Adarshsavalagi)[https://github.com/AdarshSavalagi]
+- LinkedIn: (Adarsh S M)[https://www.linkedin.com/in/adarsh-s-m-59304a286]
+- Email: (adarshsavalagi@ieee.org)[mailto:adarshsavalagi@ieee.org]
