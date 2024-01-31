@@ -29,4 +29,4 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 
 - GitHub: [Adarshsavalagi](https://github.com/AdarshSavalagi)
 - LinkedIn: [Adarsh S M](https://www.linkedin.com/in/adarsh-s-m-59304a286)
-- Email: [adarshsavalagi@ieee.org](mailto:adarshsavalagi@ieee.org)
+- Email: [adarshsavaligi@gmail.com](mailto:adarshsavaligi@gmail.com)
