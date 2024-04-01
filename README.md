@@ -8,52 +8,55 @@
 
 ### Technologies:
 - Artificial Intelligence & Machine Learning
+  - <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="20" height="20"> TensorFlow
+  - <img src="https://simpleicons.org/icons/keras.svg" alt="Keras" width="20" height="20"> Keras
+  - <img src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="20" height="20"> PyTorch
 - Full Stack Development
-  - ![Flutter](https://simpleicons.org/icons/flutter.svg) Flutter
-  - ![React](https://simpleicons.org/icons/react.svg) React
-  - ![Django](https://simpleicons.org/icons/django.svg) Django
-  - ![Angular](https://simpleicons.org/icons/angular.svg) Angular
-  - ![Express.js](https://simpleicons.org/icons/express.svg) Express.js
-  - ![Next.js](https://simpleicons.org/icons/next-dot-js.svg) Next.js
+  - <img src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="20" height="20"> Flutter
+  - <img src="https://simpleicons.org/icons/react.svg" alt="React" width="20" height="20"> React
+  - <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="20" height="20"> Django
+  - <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" width="20" height="20"> Angular
+  - <img src="https://simpleicons.org/icons/express.svg" alt="Express.js" width="20" height="20"> Express.js
+  - <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="20" height="20"> Next.js
 - Backend Development
-  - ![Fast API](https://simpleicons.org/icons/fastapi.svg)FastAPI
+  - <img src="https://simpleicons.org/icons/fastapi.svg" alt="FastAPI" width="20" height="20"> FastAPI
 - Databases
-  - ![MongoDB](https://simpleicons.org/icons/mongodb.svg) MongoDB
-  - ![MySQL](https://simpleicons.org/icons/mysql.svg) MySQL
-  - ![PostgreSQL](https://simpleicons.org/icons/postgresql.svg) PostgreSQL
+  - <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="20" height="20"> MongoDB
+  - <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="20" height="20"> MySQL
+  - <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="20" height="20"> PostgreSQL
 - Cloud Platforms
-  - ![Azure](https://simpleicons.org/icons/microsoftazure.svg) Azure
-  - ![GCP](https://simpleicons.org/icons/googlecloud.svg) Google Cloud Platform (GCP)
-  - ![AWS](https://simpleicons.org/icons/amazonaws.svg) Amazon Web Services (AWS)
+  - <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="20" height="20"> Azure
+  - <img src="https://simpleicons.org/icons/googlecloud.svg" alt="GCP" width="20" height="20"> Google Cloud Platform (GCP)
+  - <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="20" height="20"> Amazon Web Services (AWS)
 - DevOps & Tools
-  - ![Docker](https://simpleicons.org/icons/docker.svg) Docker
-  - ![Kubernetes](https://simpleicons.org/icons/kubernetes.svg) Kubernetes
-  - ![Git](https://simpleicons.org/icons/git.svg) Git
+  - <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="20" height="20"> Docker
+  - <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="20" height="20"> Kubernetes
+  - <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="20" height="20"> Git
 
 ## Skills
 
 ### Programming Languages:
-- 🐍 Python
-- JavaScript
-- Dart
+- <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20"> Python
+- <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20" height="20"> JavaScript
+- <img src="https://simpleicons.org/icons/dart.svg" alt="Dart" width="20" height="20"> Dart
 
 ### Frameworks & Tools:
-- ![Flutter](https://simpleicons.org/icons/flutter.svg) Flutter
-- ![React](https://simpleicons.org/icons/react.svg) React
-- ![Django](https://simpleicons.org/icons/django.svg) Django
-- ![Angular](https://simpleicons.org/icons/angular.svg) Angular
-- ![Express.js](https://simpleicons.org/icons/express.svg) Express.js
-- ![Next.js](https://simpleicons.org/icons/next-dot-js.svg) Next.js
-- ![Fast API](https://simpleicons.org/icons/fastapi.svg)FastAPI
-- ![MongoDB](https://simpleicons.org/icons/mongodb.svg) MongoDB
-- MySQL
-- ![PostgreSQL](https://simpleicons.org/icons/postgresql.svg) PostgreSQL
-- ![Azure](https://simpleicons.org/icons/microsoftazure.svg) Azure
-- ![GCP](https://simpleicons.org/icons/googlecloud.svg) Google Cloud Platform (GCP)
-- ![AWS](https://simpleicons.org/icons/amazonaws.svg) Amazon Web Services (AWS)
-- ![Docker](https://simpleicons.org/icons/docker.svg) Docker
-- ![Kubernetes](https://simpleicons.org/icons/kubernetes.svg) Kubernetes
-- ![Git](https://simpleicons.org/icons/git.svg) Git
+- <img src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="20" height="20"> Flutter
+- <img src="https://simpleicons.org/icons/react.svg" alt="React" width="20" height="20"> React
+- <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="20" height="20"> Django
+- <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" width="20" height="20"> Angular
+- <img src="https://simpleicons.org/icons/express.svg" alt="Express.js" width="20" height="20"> Express.js
+- <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="20" height="20"> Next.js
+- <img src="https://simpleicons.org/icons/fastapi.svg" alt="FastAPI" width="20" height="20"> FastAPI
+- <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="20" height="20"> MongoDB
+- <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="20" height="20"> MySQL
+- <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="20" height="20"> PostgreSQL
+- <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="20" height="20"> Azure
+- <img src="https://simpleicons.org/icons/googlecloud.svg" alt="GCP" width="20" height="20"> Google Cloud Platform (GCP)
+- <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="20" height="20"> Amazon Web Services (AWS)
+- <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="20" height="20"> Docker
+- <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="20" height="20"> Kubernetes
+- <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="20" height="20"> Git
 
 ## Let's Connect!
 
