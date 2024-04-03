@@ -7,7 +7,7 @@
 
 ## Interests
 
-### Techstacks
+### Technologies
 | **AI/ML** | **FullStack** | **Databases** | **Cloud Platforms** | **DevOps & Tools** |
 |:---------:|:-------------:|:-------------:|:-------------------:|:------------------:|
 |<p><img src="https://simpleicons.org/icons/tensorflow.svg" style="filter: brightness(0) invert(1);" width="45" height="45"></p>|<img src="https://simpleicons.org/icons/react.svg" style="filter: brightness(0) invert(1);" width="45" height="45">|<img src="https://simpleicons.org/icons/mongodb.svg" style="filter: brightness(0) invert(1);" width="45" height="45">|<img src="https://simpleicons.org/icons/microsoftazure.svg" style="filter: brightness(0) invert(1);" width="45" height="45">|<img src="https://simpleicons.org/icons/githubactions.svg" style="filter: brightness(0) invert(1);" width="45" height="45">|
